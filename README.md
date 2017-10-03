@@ -1,4 +1,4 @@
-# tbjcATTPCroot2
+# tbjcATTPCroot
 
 ########################
 ##### instruction ######
@@ -12,8 +12,6 @@ cd build
 cmake ..
 
 for multiprocess running, use mult.py and change the path for the data resources and data output path.
-
-To visualize the entries, the jupyter script is needed in the tbjcAnalysis folder.
 
 #######################
 ##### description #####
