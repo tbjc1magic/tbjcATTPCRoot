@@ -23,7 +23,7 @@ this program fake up the TClonesArray in the root and FairRootManager, FairTask,
 ##### test ##########
 #####################
 
-This problem has been tested under local workstations, google cloud Ubuntu images, and Regulus HPC node. But it failed the test in HPC node "crcfe01", which has a corrupted root package.
+This problem has been tested under local workstations, google cloud Ubuntu images, and Crcfe01, Canopus HPC node. 
 
 ########################
 ##### responsibility ###
