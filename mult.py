@@ -40,7 +40,7 @@ def main():
     #parentPath = 'data/July2015/'
 
     param = []
-    paths = ['run_0085/','run_0088/']
+    paths = ['run_0083/']
     #paths = ['run_0160/']
 
     for path in paths:
